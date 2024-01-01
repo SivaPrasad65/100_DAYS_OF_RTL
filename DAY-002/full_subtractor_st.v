@@ -4,6 +4,7 @@ input a,b,bin,
 output diff,barrow);
 
 wire w1,w2,w3,a_bar;
+  
 not a1(a_bar,a);
 xor x1(diff,a,b,bin);
 and a2(w1,a_bar,b);
