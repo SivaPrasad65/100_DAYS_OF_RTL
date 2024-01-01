@@ -8,6 +8,4 @@ My Name is SIVA PRASAD, I mostly use Xilinx VIVADO Design Suite for the simulati
 <h2>Here is the list of Day wise RTL Codes:</h2>
 
 Day-001 : FULL ADDER (Three Modelling styles). <br>
-
 Day-002 : FULL SUBTRACTOR (Three Modelling styles). <br>
-
