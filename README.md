@@ -10,3 +10,4 @@ My Name is SIVA PRASAD, I mostly use Xilinx VIVADO Design Suite for the simulati
 Day-001 : FULL ADDER (Three Modelling styles). <br>
 Day-002 : FULL SUBTRACTOR (Three Modelling styles). <br>
 Day-003 : MULTIPLEXER 8X1 (Three Modelling styles). <br>
+Day-004 : LOGIC GATES USING MUX. <br>
