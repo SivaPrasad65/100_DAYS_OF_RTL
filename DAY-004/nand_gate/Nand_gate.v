@@ -1,0 +1,15 @@
+module Nand_gate(
+input a,b,
+output y
+  );
+ mux m1(1,~b,a,y);
+endmodule
+
+module mux(
+input a,b,
+input sel,
+output y
+);
+assign y = (a & ~sel)|(b & sel);
+
+endmodule
