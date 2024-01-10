@@ -16,3 +16,4 @@ Day-006 : 1X8 DEMULTIPLEXER (Three Modelling styles). <br>
 Day-007 : FULL ADDER AND FULL SUBTRACTOR USING MUX. <br>
 Day-008 : OCTAL TO BINARY (8X3 ENCODER) (Three Modelling styles). <br>
 Day-009 : PRIORITY ENCODER (8:3). <br>
+Day-010:  3x8 DECODER (Three Modelling styles). <br>
