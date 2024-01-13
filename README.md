@@ -19,3 +19,4 @@ Day-009 : PRIORITY ENCODER (8:3). <br>
 Day-010:  3x8 DECODER (Three Modelling styles). <br>
 Day-011 : BCD to DECIMAL CONVERTER . <br>
 Day-012 : BCD to 7 SEGMENT. <br>
+Day-013 : BINARY to GRAY and GRAY to Binary code. <br>
