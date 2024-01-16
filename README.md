@@ -22,3 +22,4 @@ Day-012 : BCD to 7 SEGMENT. <br>
 Day-013 : BINARY to GRAY and GRAY to BINARY code. <br>
 Day-014 : RIPPLE CARRY ADDER. <br>
 Day-015 : CARRY LOOK-AHEAD ADDER. <br>
+Day-016 : CARRY SELECT ADDER. <br>
