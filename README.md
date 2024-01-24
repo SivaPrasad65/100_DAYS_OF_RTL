@@ -30,3 +30,4 @@ Day-020 : MULTIPLIER 4BIT. <br>
 Day-021 : VEDIC MULTIPLIER 4BIT. <br>
 Day-022 : SR NAND LATCH and NOR LATCH. <br>
 Day-023 : SR and D FLIPFLOP. <br>
+Day-024 : JK and T FLIPFLOP. <br>
