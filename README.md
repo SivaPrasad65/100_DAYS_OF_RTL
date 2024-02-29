@@ -66,3 +66,4 @@ Day-056 : ROUND ROBIN ARBITER . <br>
 Day-057 : POSEDGE DETECTOR . <br>
 Day-058 : NEGEDGE DETECTOR . <br>
 Day-059 : ALU 8-BIT . <br>
+Day-060 : SRAM . <br>
