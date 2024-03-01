@@ -67,3 +67,4 @@ Day-057 : POSEDGE DETECTOR . <br>
 Day-058 : NEGEDGE DETECTOR . <br>
 Day-059 : ALU 8-BIT . <br>
 Day-060 : SRAM . <br>
+Day-061 : DUAL PORT RAM . <br>
