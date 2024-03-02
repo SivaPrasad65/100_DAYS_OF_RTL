@@ -68,3 +68,4 @@ Day-058 : NEGEDGE DETECTOR . <br>
 Day-059 : ALU 8-BIT . <br>
 Day-060 : SRAM . <br>
 Day-061 : DUAL PORT RAM . <br>
+Day-062 : LIFO . <br>
