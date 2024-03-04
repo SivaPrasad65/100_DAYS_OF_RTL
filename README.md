@@ -70,3 +70,4 @@ Day-060 : SRAM . <br>
 Day-061 : DUAL PORT RAM . <br>
 Day-062 : LIFO . <br>
 Day-063 : SYNCHRONOUS FIFO . <br>
+Day-064 : ASYNCHRONOUS FIFO . <br>
