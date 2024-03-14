@@ -80,3 +80,4 @@ Day-070 : 4TAP FIR FILTER . <br>
 Day-071 : KOGGE STONE ADDER . <br>
 Day-072 : ERROR DETECTION AND CORRECTION USING HAMMING CODE TECHNIQUE . <br>
 Day-073 : ROM [15*15] . <br>
+Day-074 : Checking if Number is an Even or Odd Number. <br>
